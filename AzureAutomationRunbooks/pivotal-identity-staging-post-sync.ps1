@@ -27,3 +27,4 @@ $Da=New-Object system.Data.SqlClient.SqlDataAdapter($Cmd)
 
 # Close the SQL connection
 $Conn.Close()
+#testing sync
